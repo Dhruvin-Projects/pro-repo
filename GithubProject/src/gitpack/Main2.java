@@ -6,6 +6,7 @@ public class Main2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("UPdate 2.0");
+		System.out.println("update 2.1");
 	}
 
 }
